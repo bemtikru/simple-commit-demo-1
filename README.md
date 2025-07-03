@@ -1,1 +1,1 @@
-# simple-commit-demo-1
+# Demo Project
